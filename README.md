@@ -53,7 +53,7 @@ TODO/
 
 ```bash
 # Clone the repository
-git clone https://github.com/sanyaaaa.14/todo-app.git
+git clone  https://github.com/sanyaaaa14/Todo-App  
 cd todo-app
 
 # Install dependencies
@@ -72,7 +72,6 @@ npm run dev
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots inside the `assets/` folder and reference them below)*
 
 ```md
 ![Todo App Screenshot](./src/assets/screenshot.jpg)
